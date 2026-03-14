@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Lucas 👋
 
-<!--
-**LuscaP3/LuscaP3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="left" heigth="100%" src="./img1.png"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <h3 align="center">📊 Github Stats</h3>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuscaP3&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" height="200" alt="stats graph" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuscaP3&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="175" alt="languages graph"  />
+  </div>
+
+</div>
+
+###
+
+<br clear="both">
+
+<h1></h1>
+
+<div align = "center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuscaP3/LuscaP3/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuscaP3/LuscaP3/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuscaP3/LuscaP3/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<h1></h1>
+
+
+###
