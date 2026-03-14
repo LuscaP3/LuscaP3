@@ -9,8 +9,8 @@
   <h3 align="center">📊 Github Stats</h3>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuscaP3&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" height="200" alt="stats graph" /> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuscaP3&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="175" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=LuscaP3&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuscaP3&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="100" alt="languages graph"  />
   </div>
 
 </div>
